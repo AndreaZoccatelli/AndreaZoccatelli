@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I'm Andrea :)
+<img src="Cover.jpg" alt="Alt text" title="Optional title">
 <!--
 **AndreaZoccatelli/AndreaZoccatelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
